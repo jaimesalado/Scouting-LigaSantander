@@ -7,6 +7,8 @@ TFM Malaga Tech Park IA y Bigdata  realizado por **Alejandro Castillo Carmona** 
 <br><br>
 
 
+<img src="laliga.png" width="800">
+
 # 1. Justificación y descripción del proyecto.
 
 El Proyecto **scoutLiga** se justifica por la necesidad de mejorar la toma de decisiones en el proceso de fichaje de jugadores en los equipos de fútbol de la Liga Profesional Española **(Laliga Santander)**. En este proceso, los equipos necesitan evaluar el rendimiento de los jugadores para identificar a aquellos que tienen el potencial de mejorar su desempeño en el campo y, por lo tanto, contribuir al éxito del equipo.
