@@ -1,5 +1,5 @@
  
-<img src="malaga_tech_park.logo.png" width="200" alt="Descripción de la imagen 1" style="margin-right: 20px">  <img src="portada.jpg"  width="200" alt="Descripción de la imagen 2">
+<img src="malaga_tech_park.logo.png" width="200">             <img src="portada.jpg"  width="200">
 
 
 # Scouting-LigaSantander
