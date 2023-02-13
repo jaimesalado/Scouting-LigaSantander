@@ -1,5 +1,4 @@
-<img src="malaga_tech_park.logo.png" width="200"><img src="portadalogo.png" width="200"><img src="IABDlogo.png" width="50"><img src="accenture.svg" width="200">
-
+<img height="60px" src="malaga_tech_park.logo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="portadalogo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="IABDlogo.png" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="accenture.svg">
 # Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**
 
 
