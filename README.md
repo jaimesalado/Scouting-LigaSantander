@@ -1,12 +1,9 @@
 <img height="60px" src="malaga_tech_park.logo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="portadalogo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="IABDlogo.png" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="accenture.svg">
-# Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**
+# [Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**](https://jaimesalado-scouting-ligasantander-app-gl1w4o.streamlit.app/ "Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**")
 
 
 TFM Malaga Tech Park IA y Bigdata  realizado por **Alejandro Castillo Carmona** y **Jaime Salado Muñoz**.
 <br><br>
-
-
-<img src="laliga.png" width="800">
 
 # 1. Justificación y descripción del proyecto.
 
@@ -22,3 +19,11 @@ La solución resultante permitirá a los equipos de fútbol de la Laliga mejorar
 <br>
 
 Además se introducirá sintesis de voz para que podamos escuchar el resultado final de la predicción y no tengamos que leerlo.
+
+<img src="laliga.png" width="1200">
+<img src="readmerendimiento.png" width="1200">
+<img src="readmegoles.png" width="1200">
+<img src="readmegolesencajados.png" width="1200">
+
+
+
