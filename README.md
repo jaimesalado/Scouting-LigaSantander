@@ -1,6 +1,7 @@
 <img height="60px" src="malaga_tech_park.logo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="portadalogo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="IABDlogo.png" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="60px" src="accenture.svg">
 # [Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**](https://jaimesalado-scouting-ligasantander-app-gl1w4o.streamlit.app/ "Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**")
 
+[Presenatación Genially](https://view.genial.ly/640ccbdea1da4800135b47a9/presentation-scoutliga)
 
 TFM Malaga Tech Park IA y Bigdata  realizado por **Jaime Salado Muñoz**.
 <br><br>
