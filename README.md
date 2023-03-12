@@ -2,7 +2,7 @@
 # [Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**](https://jaimesalado-scouting-ligasantander-app-gl1w4o.streamlit.app/ "Descubriendo el talento a través del arte del análisis deportivo ⚽📊 **(ScoutLiga)**")
 
 
-TFM Malaga Tech Park IA y Bigdata  realizado por **Alejandro Castillo Carmona** y **Jaime Salado Muñoz**.
+TFM Malaga Tech Park IA y Bigdata  realizado por **Jaime Salado Muñoz**.
 <br><br>
 
 # 1. Justificación y descripción del proyecto.
